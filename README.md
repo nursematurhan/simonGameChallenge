@@ -4,3 +4,6 @@ Link: https://simongame-pearl.vercel.app/
 
 
 <img width="1436" alt="image" src="https://github.com/nursematurhan/simonGameChallenge/assets/94144190/d00ab3f7-e604-4577-9e15-6bd570eb6a88">
+
+
+Bibliography: https://www.udemy.com/share/101qYw3@NYvl4Tm7-K7_UhNB55bBfUqviWvvjWiHEYOhEUfLZslmGN1iFObDbDx5S4LpzID-5w==/
